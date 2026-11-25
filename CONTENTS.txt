@@ -1,0 +1,11 @@
+PUBLIC REPOSITORY CONTENTS
+
+data_cleaner.py — reusable Python cleaning module
+Python_Data_Cleaner.ipynb — working Jupyter/Colab notebook
+README.md — project overview, setup, usage and limitations
+requirements.txt — Python dependency list
+.gitignore — excludes caches, environments and local secrets
+sample_data/ — fictional sample input datasets
+test_evidence/ — representative regression and currency outputs
+
+The original notebook backup and local cache files are intentionally excluded.

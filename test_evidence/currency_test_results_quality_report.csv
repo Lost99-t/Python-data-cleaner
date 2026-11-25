@@ -1,0 +1,11 @@
+Metric,Value
+Original records,5
+Duplicates removed,0
+Missing values found,0
+Columns with missing values,None
+Final records,5
+Records flagged for review,2
+Unresolved columns,None
+Missing values remaining,0
+Validation issue: Non-numeric value in Purchase,1
+Validation issue: Negative value in Purchase,1

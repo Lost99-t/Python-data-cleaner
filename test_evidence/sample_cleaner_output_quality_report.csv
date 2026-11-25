@@ -1,0 +1,12 @@
+Metric,Value
+Original records,5
+Duplicates removed,1
+Missing values found,2
+Columns with missing values,Email: 1; City: 1
+Final records,4
+Records flagged for review,2
+Unresolved columns,None
+Missing values remaining,0
+Validation issue: Non-numeric value in Purchase,1
+Validation issue: Missing email,1
+Validation issue: Negative value in Purchase,1

@@ -1,0 +1,5 @@
+Customer,Email,Purchase,City
+John,john@email.com,500,Lagos
+Mary,mary@email.com,300,Abuja
+Peter,Unknown,-200,Lagos
+Alex,alex@email.com,300,Unknown
